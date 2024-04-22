@@ -1,0 +1,10 @@
+:root{
+    --mybgcolor:#3B2A9F;
+}
+.bache{
+    background-color:var(--mybgcolor);
+}
+.bt1{
+    background-color: #FA8305;
+}
+
