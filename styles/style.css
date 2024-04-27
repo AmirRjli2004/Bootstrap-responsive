@@ -1,10 +1,37 @@
 :root{
     --mybgcolor:#3B2A9F;
 }
-.bache{
+body{
     background-color:var(--mybgcolor);
 }
 .bt1{
     background-color: #FA8305;
+    border-radius:6px 6px 6px 6px;
+}
+.logo{
+    font-family: Poppins;
+font-size: 29px;
+font-weight: 800;
+line-height: 44.51px;
+text-align: left;
+}
+.cry{
+
+}
+.bt2{
+    background-color: #FA8305;
+     border-radius: 25px 25px 25px 25px;
+    width: 195px;
+    height: 53px;
+}
+.bt3{
+    background-color: #5141AA;
+    width: 139px;
+    height: 57px;
+    margin-right:100px;
+}
+.d2{
+    margin-left:100px;
+    font-size:31px;
 }
 
